@@ -3,7 +3,6 @@
 <div align="center">
 <h1 align="center"> Hi!, welcome, My name is Cawtell👋</h1>
 </div>
-<img src="">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/HaiverGuerrero?style=social)](https://github.com/HaiverGuerrero)
